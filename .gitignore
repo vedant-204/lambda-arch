@@ -1,0 +1,9 @@
+./login-system/package-lock.json
+./login-system/.DS_Store
+./login-system/.gitignore
+./login-system/.env.example
+
+./website/package-lock.json
+./website/.DS_Store
+./website/.gitignore
+
