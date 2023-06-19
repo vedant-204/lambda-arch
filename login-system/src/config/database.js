@@ -1,4 +1,4 @@
-// //ATLAS
+//ATLAS
 import mongoose from "mongoose";
 import config from "./serverConfig.js";
 export const connect = async () => {
@@ -9,9 +9,9 @@ export const connect = async () => {
   }
 };
 
-// COMPASS;
-// import mongoose from "mongoose";
-
-// export const connect = async () => {
-//   await mongoose.connect("mongodb://localhost/Xerocodee");
-// };
+//COMPASS;
+//import mongoose from "mongoose";
+//
+//export const connect = async () => {
+//  await mongoose.connect("mongodb://localhost:27017");
+//};
